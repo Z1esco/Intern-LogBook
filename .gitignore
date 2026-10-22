@@ -1,0 +1,20 @@
+# Local development and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Confidential or raw security assessment material must never be committed
+private/
+evidence/
+client-files/
+*.pcap
+*.pcapng
+*.har
+*.burp
+*.nessus
