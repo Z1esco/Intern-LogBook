@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Intern LogBook cybersecurity field journal</title>
+  <desc id="desc">Dark geometric banner with a cyan terminal prompt and the message Document. Learn. Validate.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091322"/><stop offset=".56" stop-color="#112942"/><stop offset="1" stop-color="#113B44"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6BE9DC"/><stop offset="1" stop-color="#3C90D5"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <clipPath id="round"><rect width="1200" height="290" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="290" fill="url(#base)"/><rect width="1200" height="290" fill="url(#grid)"/>
+    <circle cx="1050" cy="115" r="150" fill="none" stroke="#6CE8D7" stroke-opacity=".12" stroke-width="2"/>
+    <circle cx="1050" cy="115" r="109" fill="none" stroke="#6CE8D7" stroke-opacity=".16" stroke-width="2"/>
+    <circle cx="1050" cy="115" r="69" fill="none" stroke="#6CE8D7" stroke-opacity=".22" stroke-width="2"/>
+    <path d="M923 115h254M1050-13v258" stroke="#83EEDC" stroke-opacity=".14" stroke-width="2"/>
+    <path d="M890 268c44-58 88-63 135-110s89-62 175-50" fill="none" stroke="#69E8D8" stroke-opacity=".19" stroke-width="3"/>
+    <rect x="58" y="49" width="9" height="9" rx="2" fill="#78E9DA"/>
+    <text x="80" y="59" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="4" fill="#99B3CB">CYBERSECURITY  /  FIELD JOURNAL</text>
+    <text x="58" y="127" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="800" letter-spacing="1" fill="#F6FBFF">Document. Learn. Validate.</text>
+    <rect x="58" y="152" width="445" height="4" rx="2" fill="url(#line)"/>
+    <text x="58" y="196" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#C0D7E6">A daily record of progress, practice and reflection.</text>
+    <rect x="58" y="228" width="255" height="35" rx="17" fill="#1E465A" stroke="#408A94" stroke-width="1"/>
+    <text x="78" y="252" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#A6F6E8">EST. 19 OCT 2026</text>
+  </g>
+</svg>

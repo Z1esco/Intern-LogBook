@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="224" viewBox="0 0 224 224" role="img" aria-labelledby="title desc">
+  <title id="title">Intern LogBook emblem</title>
+  <desc id="desc">A teal security shield surrounding a white open book and a small gold verification mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121F39"/><stop offset="1" stop-color="#080F20"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6BE9DC"/><stop offset="1" stop-color="#348FC8"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <rect x="5" y="5" width="214" height="214" rx="50" fill="url(#bg)" stroke="#264460" stroke-width="2"/>
+  <path d="M112 29 176 53v53c0 46-23 73-64 94-41-21-64-48-64-94V53Z" fill="none" stroke="#57CDBF" opacity=".18" stroke-width="12" filter="url(#glow)"/>
+  <path d="M112 30 174 53v52c0 45-25 73-62 93-37-20-62-48-62-93V53Z" fill="#122842" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M70 85c18-6 30-5 42 3v53c-13-8-26-10-42-5V85Zm84 0c-18-6-30-5-42 3v53c13-8 26-10 42-5V85Z" fill="#E9F9FF" opacity=".98"/>
+  <path d="M112 89v54M77 96c11-2 20-1 27 3M120 99c9-4 17-5 27-3M77 109c11-2 20-1 27 3M120 112c9-4 17-5 27-3" fill="none" stroke="#3A7897" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="m98 153 10 10 22-22" fill="none" stroke="#F4CD82" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
