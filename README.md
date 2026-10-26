@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/University-UniKL-236A87?style=flat-square" alt="University: UniKL" />
     <img src="https://img.shields.io/badge/Track-Cybersecurity-127A75?style=flat-square" alt="Track: Cybersecurity" />
     <img src="https://img.shields.io/badge/Started-19_Oct_2026-31446A?style=flat-square" alt="Started: 19 October 2026" />
-    <img src="https://img.shields.io/badge/Entries-04-476B97?style=flat-square" alt="4 entries" />
+    <img src="https://img.shields.io/badge/Entries-05-476B97?style=flat-square" alt="5 entries" />
   </p>
 </div>
 
@@ -25,7 +25,7 @@ Welcome to my **Intern LogBook**, a structured record of my cybersecurity intern
     <td width="25%"><strong>🏫 University</strong><br/>UniKL</td>
     <td width="25%"><strong>🛡️ Focus</strong><br/>Cybersecurity</td>
     <td width="25%"><strong>📅 Started</strong><br/>19 Oct 2026</td>
-    <td width="25%"><strong>📒 Days logged</strong><br/>04</td>
+    <td width="25%"><strong>📒 Days logged</strong><br/>05</td>
   </tr>
 </table>
 
@@ -41,6 +41,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | 02 | Tue, 20 Oct | 🌐 Server-side web vulnerability labs with Burp Suite | [Read ↗](logbook/2026/10-october/2026-10-20-day-02.md) |
 | 03 | Wed, 21 Oct | 🔁 SSRF study and missing CSP header retesting | [Read ↗](logbook/2026/10-october/2026-10-21-day-03.md) |
 | 04 | Thu, 22 Oct | 📝 Path traversal study and retesting report consolidation | [Read ↗](logbook/2026/10-october/2026-10-22-day-04.md) |
+| 05 | Fri, 23 Oct | 🔎 Network service version retesting and continued web security study | [Read ↗](logbook/2026/10-october/2026-10-23-day-05.md) |
 
 **Browse:** [2026 overview](logbook/2026/README.md) · [October index](logbook/2026/10-october/README.md)
 
@@ -50,7 +51,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | :-- | :-- |
 | **Web application security** | Server-side vulnerability labs, Server-Side Request Forgery (SSRF), and Path Traversal study |
 | **Tools** | Burp Suite and PortSwigger Web Security Academy |
-| **Security assessment** | Retesting a previously identified missing Content-Security-Policy (CSP) HTTP response header finding |
+| **Security assessment** | Retesting a missing Content-Security-Policy (CSP) HTTP response header finding; network service version checks for OpenSSH, ClamAV, Portainer, and Apache |
 | **Technical documentation** | Combining and formatting four retesting reports into one final document |
 | **Professional practice** | ISMS orientation, consulting workflows, reporting standards, and internal escalation procedures |
 
@@ -71,7 +72,8 @@ Intern-LogBook/
 │           ├── 2026-10-19-day-01.md
 │           ├── 2026-10-20-day-02.md
 │           ├── 2026-10-21-day-03.md
-│           └── 2026-10-22-day-04.md
+│           ├── 2026-10-22-day-04.md
+│           └── 2026-10-23-day-05.md
 ├── templates/
 │   └── daily-entry.md                # Template for future entries
 ├── docs/
