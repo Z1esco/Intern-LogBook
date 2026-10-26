@@ -2,7 +2,7 @@
 
 [← Journal dashboard](../../../README.md) · [2026 index](../README.md)
 
-**Period covered:** 19–23 October 2026 · **Entries:** 5 · **Track:** Cybersecurity
+**Period covered:** 19–26 October 2026 · **Entries:** 6 · **Track:** Cybersecurity
 
 ## Week 01 · 19–23 October
 
@@ -14,10 +14,16 @@
 | 04 | Thursday, 22 Oct | Path Traversal learning and four-report consolidation | [Open](2026-10-22-day-04.md) |
 | 05 | Friday, 23 Oct | Network service version retesting and SSRF / Path Traversal review | [Open](2026-10-23-day-05.md) |
 
+## Week 02 · 26 October
+
+| Day | Date | Focus | Logbook |
+| :--: | :-- | :-- | :--: |
+| 06 | Monday, 26 Oct | Eight-draft VAPT report consolidation and Hack The Box practice | [Open](2026-10-26-day-06.md) |
+
 ## 🎯 Month-to-date learning
 
-The first five documented internship days covered onboarding and professional workflows, practical web application security study through PortSwigger, security mitigation retesting including network service version checks, and technical report formatting. These are recorded activities rather than claims of independent assessment ownership or confirmed remediation outcomes.
+The first six documented internship days covered onboarding and consulting workflows, PortSwigger web security learning, mitigation and network service retesting, consolidated VAPT reporting across several assessment scopes, and independent hands-on Hack The Box training. These are recorded activities rather than claims of independent assessment ownership or confirmed remediation outcomes.
 
 ---
 
-<sub>Content is anonymized to protect client confidentiality. Updated through 23 October 2026.</sub>
+<sub>Content is anonymized to protect client confidentiality. Updated through 26 October 2026.</sub>

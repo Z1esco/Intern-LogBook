@@ -6,7 +6,7 @@ A chronological index of documented internship days during 2026. Entries follow 
 
 | Month | Days logged | Focus | Open |
 | :-- | --: | :-- | :-- |
-| **October 2026** | **5** | Onboarding, web security, network service retesting, and report preparation | [View month ↗](10-october/README.md) |
+| **October 2026** | **6** | Onboarding, web security, service retesting, VAPT reporting, and HTB training | [View month ↗](10-october/README.md) |
 
 > [!IMPORTANT]
 > Client identifiers, internal deliverables, and sensitive infrastructure details must remain outside this journal.
