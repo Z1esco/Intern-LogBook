@@ -6,7 +6,7 @@ A chronological index of documented internship days during 2026. Entries follow 
 
 | Month | Days logged | Focus | Open |
 | :-- | --: | :-- | :-- |
-| **October 2026** | **7** | Onboarding, SQLi and web security learning, service retesting, VAPT reporting, and HTB training | [View month ↗](10-october/README.md) |
+| **October 2026** | **8** | Onboarding, web security learning, VAPT reporting, service and web application retesting, and HTB training | [View month ↗](10-october/README.md) |
 
 > [!IMPORTANT]
 > Client identifiers, internal deliverables, and sensitive infrastructure details must remain outside this journal.
