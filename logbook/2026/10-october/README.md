@@ -22,11 +22,11 @@
 | 07 | Tuesday, 27 Oct | SQL Injection study through PortSwigger and HTB practice | [Open](2026-10-27-day-07.md) |
 | 08 | Wednesday, 28 Oct | Penetration testing report drafting and web application retesting | [Open](2026-10-28-day-08.md) |
 | 09 | Thursday, 29 Oct | Web application findings retesting and remediation status review | [Open](2026-10-29-day-09.md) |
-| 10 | Friday, 30 Oct | Hands-on practice with the Hack The Box Fawn machine | [Open](2026-10-30-day-10.md) |
+| 10 | Friday, 30 Oct | Hack The Box Fawn practice and TwoMillion progress | [Open](2026-10-30-day-10.md) |
 
 ## 🎯 Month-to-date learning
 
-The first ten documented internship days covered onboarding and consulting workflows, PortSwigger web security learning including SQL Injection, network service and web application retesting, VAPT report consolidation and drafting, remediation status reviews, and independent hands-on Hack The Box training including the Fawn machine. These are recorded activities rather than claims of independent assessment ownership or confirmed remediation outcomes.
+The first ten documented internship days covered onboarding and consulting workflows, PortSwigger web security learning including SQL Injection, network service and web application retesting, VAPT report consolidation and drafting, remediation status reviews, and independent hands-on Hack The Box training including practice on Fawn and continued progress on TwoMillion. These are recorded activities rather than claims of independent assessment ownership or confirmed remediation outcomes.
 
 ---
 

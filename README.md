@@ -46,7 +46,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | 07 | Tue, 27 Oct | 🛡️ SQL injection study and Hack The Box practice | [Read ↗](logbook/2026/10-october/2026-10-27-day-07.md) |
 | 08 | Wed, 28 Oct | 📝 Penetration testing report drafting and web application retesting | [Read ↗](logbook/2026/10-october/2026-10-28-day-08.md) |
 | 09 | Thu, 29 Oct | 🔍 Web application mitigation retesting and findings validation | [Read ↗](logbook/2026/10-october/2026-10-29-day-09.md) |
-| 10 | Fri, 30 Oct | 🧪 Hack The Box Fawn penetration testing practice | [Read ↗](logbook/2026/10-october/2026-10-30-day-10.md) |
+| 10 | Fri, 30 Oct | 🧪 Hack The Box Fawn practice and TwoMillion progress | [Read ↗](logbook/2026/10-october/2026-10-30-day-10.md) |
 
 **Browse:** [2026 overview](logbook/2026/README.md) · [October index](logbook/2026/10-october/README.md)
 
@@ -55,7 +55,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | Area | Activities documented |
 | :-- | :-- |
 | **Web application security** | Server-side vulnerability labs, Server-Side Request Forgery (SSRF), Path Traversal, and SQL Injection (SQLi) study |
-| **Tools and training** | Burp Suite, PortSwigger Web Security Academy, and Hack The Box (HTB) |
+| **Tools and training** | Burp Suite, PortSwigger Web Security Academy, and Hack The Box (HTB) practice on Fawn and TwoMillion |
 | **Security assessment** | Retesting a missing Content-Security-Policy (CSP) HTTP response header finding; network service version checks for OpenSSH, ClamAV, Portainer, and Apache; web application findings validation across XSS, file upload, session security, and input validation |
 | **Technical documentation** | Combined four retesting reports into one document; continued consolidating eight draft VAPT reports covering IPT, INPT, MPOS thick client, cloud, and web assessments; prepared a draft penetration testing report |
 | **Professional practice** | ISMS orientation, consulting workflows, reporting standards, and internal escalation procedures |
