@@ -2,7 +2,7 @@
 
 [← Journal dashboard](../../../README.md) · [2026 index](../README.md)
 
-**Period covered:** 19–29 October 2026 · **Entries:** 9 · **Track:** Cybersecurity
+**Period covered:** 19–30 October 2026 · **Entries:** 10 · **Track:** Cybersecurity
 
 ## Week 01 · 19–23 October
 
@@ -14,7 +14,7 @@
 | 04 | Thursday, 22 Oct | Path Traversal learning and four-report consolidation | [Open](2026-10-22-day-04.md) |
 | 05 | Friday, 23 Oct | Network service version retesting and SSRF / Path Traversal review | [Open](2026-10-23-day-05.md) |
 
-## Week 02 · 26–29 October
+## Week 02 · 26–30 October
 
 | Day | Date | Focus | Logbook |
 | :--: | :-- | :-- | :--: |
@@ -22,11 +22,12 @@
 | 07 | Tuesday, 27 Oct | SQL Injection study through PortSwigger and HTB practice | [Open](2026-10-27-day-07.md) |
 | 08 | Wednesday, 28 Oct | Penetration testing report drafting and web application retesting | [Open](2026-10-28-day-08.md) |
 | 09 | Thursday, 29 Oct | Web application findings retesting and remediation status review | [Open](2026-10-29-day-09.md) |
+| 10 | Friday, 30 Oct | Hands-on practice with the Hack The Box Fawn machine | [Open](2026-10-30-day-10.md) |
 
 ## 🎯 Month-to-date learning
 
-The first nine documented internship days covered onboarding and consulting workflows, PortSwigger web security learning including SQL Injection, network service and web application retesting, VAPT report consolidation and drafting, remediation status reviews, and independent hands-on Hack The Box training. These are recorded activities rather than claims of independent assessment ownership or confirmed remediation outcomes.
+The first ten documented internship days covered onboarding and consulting workflows, PortSwigger web security learning including SQL Injection, network service and web application retesting, VAPT report consolidation and drafting, remediation status reviews, and independent hands-on Hack The Box training including the Fawn machine. These are recorded activities rather than claims of independent assessment ownership or confirmed remediation outcomes.
 
 ---
 
-<sub>Content is anonymized to protect client confidentiality. Updated through 29 October 2026.</sub>
+<sub>Content is anonymized to protect client confidentiality. Updated through 30 October 2026.</sub>
