@@ -99,7 +99,8 @@ Intern-LogBook/
 │           ├── 2026-11-02-day-11.md
 │           ├── 2026-11-03-day-12.md
 │           ├── 2026-11-04-day-13.md
-│           └── 2026-11-05-day-14.md
+│           ├── 2026-11-05-day-14.md
+│           └── 2026-11-06-day-15.md
 ├── templates/
 │   └── daily-entry.md                # Template for future entries
 ├── docs/
