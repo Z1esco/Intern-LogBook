@@ -7,7 +7,7 @@ A chronological index of documented internship days during 2026. Entries follow 
 | Month | Days logged | Focus | Open |
 | :-- | --: | :-- | :-- |
 | **October 2026** | **10** | Onboarding, web security learning, VAPT reporting, vulnerability retesting, and HTB training including Fawn and TwoMillion | [View month ↗](10-october/README.md) |
-| **November 2026** | **5** | Black box pentest reporting, HTB practice across eight machines, and two unpaid leave days | [View month ↗](11-november/README.md) |
+| **November 2026** | **6** | Black box pentest reporting, HTB practice across eight machines, two unpaid leave days, and Deepavali public holiday | [View month ↗](11-november/README.md) |
 
 > [!IMPORTANT]
 > Client identifiers, internal deliverables, and sensitive infrastructure details must remain outside this journal.
