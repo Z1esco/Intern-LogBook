@@ -2,7 +2,7 @@
 
 [← Journal dashboard](../../../README.md) · [2026 index](../README.md) · [October 2026](../10-october/README.md)
 
-**Period covered:** 2–6 November 2026 · **Entries:** 5 · **Track:** Cybersecurity
+**Period covered:** 2–9 November 2026 · **Entries:** 6 · **Track:** Cybersecurity
 
 ## Week 03 · 2–6 November
 
@@ -14,10 +14,16 @@
 | 14 | Thursday, 5 Nov | Unpaid leave | [Open](2026-11-05-day-14.md) |
 | 15 | Friday, 6 Nov | HTB Responder and Three practice | [Open](2026-11-06-day-15.md) |
 
+## Week 04 · 9–13 November
+
+| Day | Date | Focus | Logbook |
+| :--: | :-- | :-- | :--: |
+| 16 | Monday, 9 Nov | Deepavali public holiday | [Open](2026-11-09-day-16.md) |
+
 ## 🎯 Month-to-date learning
 
-Finalized a client black box penetration testing report and continued practical Hack The Box training across eight machines: Command, Redeemer, Dancing, Appointment, Sequel, Crocodile, Responder, and Three. Two unpaid leave days were also recorded during this period. Only high-level, anonymized activities are documented.
+Finalized a client black box penetration testing report and continued practical Hack The Box training across eight machines: Command, Redeemer, Dancing, Appointment, Sequel, Crocodile, Responder, and Three. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
 
 ---
 
-<sub>Content is anonymized to protect client confidentiality. Updated through 6 November 2026.</sub>
+<sub>Content is anonymized to protect client confidentiality. Updated through 9 November 2026.</sub>
