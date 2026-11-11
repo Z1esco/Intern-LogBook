@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/University-UniKL-236A87?style=flat-square" alt="University: UniKL" />
     <img src="https://img.shields.io/badge/Track-Cybersecurity-127A75?style=flat-square" alt="Track: Cybersecurity" />
     <img src="https://img.shields.io/badge/Started-19_Oct_2026-31446A?style=flat-square" alt="Started: 19 October 2026" />
-    <img src="https://img.shields.io/badge/Entries-16-476B97?style=flat-square" alt="16 entries" />
+    <img src="https://img.shields.io/badge/Entries-17-476B97?style=flat-square" alt="17 entries" />
   </p>
 </div>
 
@@ -25,7 +25,7 @@ Welcome to my **Intern LogBook**, a structured record of my cybersecurity intern
     <td width="25%"><strong>🏫 University</strong><br/>UniKL</td>
     <td width="25%"><strong>🛡️ Focus</strong><br/>Cybersecurity</td>
     <td width="25%"><strong>📅 Started</strong><br/>19 Oct 2026</td>
-    <td width="25%"><strong>📒 Days logged</strong><br/>16</td>
+    <td width="25%"><strong>📒 Days logged</strong><br/>17</td>
   </tr>
 </table>
 
@@ -58,6 +58,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | 14 | Thu, 5 Nov | 📅 Unpaid leave | [Read ↗](logbook/2026/11-november/2026-11-05-day-14.md) |
 | 15 | Fri, 6 Nov | 🧪 HTB Responder and Three practice | [Read ↗](logbook/2026/11-november/2026-11-06-day-15.md) |
 | 16 | Mon, 9 Nov | 🪔 Deepavali public holiday | [Read ↗](logbook/2026/11-november/2026-11-09-day-16.md) |
+| 17 | Tue, 10 Nov | 🔁 Web application and API security retesting | [Read ↗](logbook/2026/11-november/2026-11-10-day-17.md) |
 
 **Browse:** [2026 overview](logbook/2026/README.md) · [October index](logbook/2026/10-october/README.md) · [November index](logbook/2026/11-november/README.md)
 
@@ -67,7 +68,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | :-- | :-- |
 | **Web application security** | Server-side vulnerability labs, Server-Side Request Forgery (SSRF), Path Traversal, and SQL Injection (SQLi) study |
 | **Tools and training** | Burp Suite, PortSwigger Web Security Academy, and Hack The Box (HTB) practice on Fawn, TwoMillion, Command, Redeemer, Dancing, Appointment, Sequel, Crocodile, Responder, and Three |
-| **Security assessment** | Retesting a missing Content-Security-Policy (CSP) HTTP response header finding; network service version checks for OpenSSH, ClamAV, Portainer, and Apache; web application findings validation across XSS, file upload, session security, and input validation |
+| **Security assessment** | Retesting a missing Content-Security-Policy (CSP) HTTP response header finding; network service version checks for OpenSSH, ClamAV, Portainer, and Apache; web application findings validation across XSS, file upload, session security, and input validation; web application and API retesting |
 | **Technical documentation** | Combined four retesting reports; continued consolidating eight draft VAPT reports covering IPT, INPT, MPOS thick client, cloud, and web assessments; prepared a penetration testing draft and finalized a client black box penetration testing report |
 | **Professional practice** | ISMS orientation, consulting workflows, reporting standards, and internal escalation procedures |
 
@@ -102,7 +103,8 @@ Intern-LogBook/
 │           ├── 2026-11-04-day-13.md
 │           ├── 2026-11-05-day-14.md
 │           ├── 2026-11-06-day-15.md
-│           └── 2026-11-09-day-16.md
+│           ├── 2026-11-09-day-16.md
+│           └── 2026-11-10-day-17.md
 ├── templates/
 │   └── daily-entry.md                # Template for future entries
 ├── docs/
