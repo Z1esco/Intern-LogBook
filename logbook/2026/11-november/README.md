@@ -2,7 +2,7 @@
 
 [← Journal dashboard](../../../README.md) · [2026 index](../README.md) · [October 2026](../10-october/README.md)
 
-**Period covered:** 2–10 November 2026 · **Entries:** 7 · **Track:** Cybersecurity
+**Period covered:** 2–13 November 2026 · **Entries:** 10 · **Track:** Cybersecurity
 
 ## Week 03 · 2–6 November
 
@@ -20,11 +20,14 @@
 | :--: | :-- | :-- | :--: |
 | 16 | Monday, 9 Nov | Deepavali public holiday | [Open](2026-11-09-day-16.md) |
 | 17 | Tuesday, 10 Nov | Web application and API security retesting | [Open](2026-11-10-day-17.md) |
+| 18 | Wednesday, 11 Nov | API retesting and HTB Vaccine and Oopsie practice | [Open](2026-11-11-day-18.md) |
+| 19 | Thursday, 12 Nov | Remote infrastructure penetration testing and Nessus scanning | [Open](2026-11-12-day-19.md) |
+| 20 | Friday, 13 Nov | Continued IPT and draft report preparation | [Open](2026-11-13-day-20.md) |
 
 ## 🎯 Month-to-date learning
 
-Finalized a client black box penetration testing report, continued practical Hack The Box training across eight machines, and performed retesting for a web application and API. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
+Finalized a client black box penetration testing report, continued Hack The Box practice across ten machines, completed web application API retesting, and carried out remote infrastructure penetration testing using Nessus. A draft IPT report was prepared to document the identified findings. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
 
 ---
 
-<sub>Content is anonymized to protect client confidentiality. Updated through 10 November 2026.</sub>
+<sub>Content is anonymized to protect client confidentiality. Updated through 13 November 2026.</sub>
