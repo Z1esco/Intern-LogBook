@@ -2,7 +2,7 @@
 
 [← Journal dashboard](../../../README.md) · [2026 index](../README.md) · [October 2026](../10-october/README.md)
 
-**Period covered:** 2–13 November 2026 · **Entries:** 10 · **Track:** Cybersecurity
+**Period covered:** 2–16 November 2026 · **Entries:** 11 · **Track:** Cybersecurity
 
 ## Week 03 · 2–6 November
 
@@ -24,10 +24,16 @@
 | 19 | Thursday, 12 Nov | Remote infrastructure penetration testing and Nessus scanning | [Open](2026-11-12-day-19.md) |
 | 20 | Friday, 13 Nov | Continued IPT and draft report preparation | [Open](2026-11-13-day-20.md) |
 
+## Week 05 · 16–20 November
+
+| Day | Date | Focus | Logbook |
+| :--: | :-- | :-- | :--: |
+| 21 | Monday, 16 Nov | Continued IPT; new web application and network PT with Nessus and Burp Suite | [Open](2026-11-16-day-21.md) |
+
 ## 🎯 Month-to-date learning
 
-Finalized a client black box penetration testing report, continued Hack The Box practice across ten machines, completed web application API retesting, and carried out remote infrastructure penetration testing using Nessus. A draft IPT report was prepared to document the identified findings. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
+Finalized a client black box penetration testing report, continued Hack The Box practice across ten machines, completed web application API retesting, and carried out remote infrastructure penetration testing using Nessus. A draft IPT report was prepared to document the identified findings, and a new web application and network penetration testing assessment began with Nessus scanning and Burp Suite validation. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
 
 ---
 
-<sub>Content is anonymized to protect client confidentiality. Updated through 13 November 2026.</sub>
+<sub>Content is anonymized to protect client confidentiality. Updated through 16 November 2026.</sub>
