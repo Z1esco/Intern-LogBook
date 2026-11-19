@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/University-UniKL-236A87?style=flat-square" alt="University: UniKL" />
     <img src="https://img.shields.io/badge/Track-Cybersecurity-127A75?style=flat-square" alt="Track: Cybersecurity" />
     <img src="https://img.shields.io/badge/Started-19_Oct_2026-31446A?style=flat-square" alt="Started: 19 October 2026" />
-    <img src="https://img.shields.io/badge/Entries-21-476B97?style=flat-square" alt="21 entries" />
+    <img src="https://img.shields.io/badge/Entries-23-476B97?style=flat-square" alt="23 entries" />
   </p>
 </div>
 
@@ -25,7 +25,7 @@ Welcome to my **Intern LogBook**, a structured record of my cybersecurity intern
     <td width="25%"><strong>🏫 University</strong><br/>UniKL</td>
     <td width="25%"><strong>🛡️ Focus</strong><br/>Cybersecurity</td>
     <td width="25%"><strong>📅 Started</strong><br/>19 Oct 2026</td>
-    <td width="25%"><strong>📒 Days logged</strong><br/>21</td>
+    <td width="25%"><strong>📒 Days logged</strong><br/>23</td>
   </tr>
 </table>
 
@@ -63,6 +63,8 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | 19 | Thu, 12 Nov | 🔎 Remote infrastructure penetration testing and Nessus scanning | [Read ↗](logbook/2026/11-november/2026-11-12-day-19.md) |
 | 20 | Fri, 13 Nov | 📄 Continued IPT and prepared draft report for identified findings | [Read ↗](logbook/2026/11-november/2026-11-13-day-20.md) |
 | 21 | Mon, 16 Nov | 🔎 Continued IPT; new web app and network PT with Nessus and Burp Suite | [Read ↗](logbook/2026/11-november/2026-11-16-day-21.md) |
+| 22 | Tue, 17 Nov | 🔎 Manual Burp Suite testing of an older domain, Nessus and Nmap scans, DNS enumeration | [Read ↗](logbook/2026/11-november/2026-11-17-day-22.md) |
+| 23 | Wed, 18 Nov | 🧪 Continued PT, remote Nessus scan of ~2,000 hosts in progress, HTB Oopsie | [Read ↗](logbook/2026/11-november/2026-11-18-day-23.md) |
 
 **Browse:** [2026 overview](logbook/2026/README.md) · [October index](logbook/2026/10-october/README.md) · [November index](logbook/2026/11-november/README.md)
 
@@ -112,7 +114,9 @@ Intern-LogBook/
 │           ├── 2026-11-11-day-18.md
 │           ├── 2026-11-12-day-19.md
 │           ├── 2026-11-13-day-20.md
-│           └── 2026-11-16-day-21.md
+│           ├── 2026-11-16-day-21.md
+│           ├── 2026-11-17-day-22.md
+│           └── 2026-11-18-day-23.md
 ├── templates/
 │   └── daily-entry.md                # Template for future entries
 ├── docs/
