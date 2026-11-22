@@ -7,7 +7,7 @@ A chronological index of documented internship days during 2026. Entries follow 
 | Month | Days logged | Focus | Open |
 | :-- | --: | :-- | :-- |
 | **October 2026** | **10** | Onboarding, web security learning, VAPT reporting, vulnerability retesting, and HTB training including Fawn and TwoMillion | [View month ↗](10-october/README.md) |
-| **November 2026** | **14** | Web and API retesting, infrastructure penetration testing and Nessus scanning, web application and network penetration testing, DNS enumeration, exploitation testing, IPT draft reporting, HTB practice, unpaid leave, and Deepavali public holiday | [View month ↗](11-november/README.md) |
+| **November 2026** | **15** | Web and API retesting including OTP rate limiting, infrastructure penetration testing and Nessus scanning, web application and network penetration testing, DNS enumeration, exploitation testing, IPT draft reporting, HTB practice, unpaid leave, and Deepavali public holiday | [View month ↗](11-november/README.md) |
 
 > [!IMPORTANT]
 > Client identifiers, internal deliverables, and sensitive infrastructure details must remain outside this journal.
