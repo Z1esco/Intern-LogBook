@@ -2,7 +2,7 @@
 
 [← Journal dashboard](../../../README.md) · [2026 index](../README.md) · [October 2026](../10-october/README.md)
 
-**Period covered:** 2–20 November 2026 · **Entries:** 15 · **Track:** Cybersecurity
+**Period covered:** 2–26 November 2026 · **Entries:** 16 · **Track:** Cybersecurity
 
 ## Week 03 · 2–6 November
 
@@ -34,10 +34,16 @@
 | 24 | Thursday, 19 Nov | Findings validation, exploitation testing with Piranha, Burp Suite and Nessus, and report generation | [Open](2026-11-19-day-24.md) |
 | 25 | Friday, 20 Nov | API OTP rate limiting retest in WSL (closed), web application and network PT reporting, and continued IPT Nessus scanning | [Open](2026-11-20-day-25.md) |
 
+## Week 06 · 23–27 November
+
+| Day | Date | Focus | Logbook |
+| :--: | :-- | :-- | :--: |
+| 28 | Thursday, 26 Nov | IPT proof-of-concept testing and true positive verification of medium, low and informational findings, with report updates | [Open](2026-11-26-day-28.md) |
+
 ## 🎯 Month-to-date learning
 
-Finalized a client black box penetration testing report, continued Hack The Box practice across ten machines, completed web application API retesting, and carried out remote infrastructure penetration testing using Nessus. A draft IPT report was prepared to document the identified findings, and a new web application and network penetration testing assessment began with Nessus scanning and Burp Suite validation, followed by manual Burp Suite testing of an older domain, Nmap scanning, DNS enumeration with dig and nslookup, and a large remote Nessus scan, before findings were validated, exploitation testing was performed, and a report was generated. An API retest of rate limiting on OTP dispatch was then performed from WSL and the finding was closed, the web application and network penetration testing report was written, and IPT Nessus scanning continued. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
+Finalized a client black box penetration testing report, continued Hack The Box practice across ten machines, completed web application API retesting, and carried out remote infrastructure penetration testing using Nessus. A draft IPT report was prepared to document the identified findings, and a new web application and network penetration testing assessment began with Nessus scanning and Burp Suite validation, followed by manual Burp Suite testing of an older domain, Nmap scanning, DNS enumeration with dig and nslookup, and a large remote Nessus scan, before findings were validated, exploitation testing was performed, and a report was generated. An API retest of rate limiting on OTP dispatch was then performed from WSL and the finding was closed, the web application and network penetration testing report was written, and IPT Nessus scanning continued. Proof-of-concept testing was later carried out on the medium, low and informational IPT findings, mostly at network level, to verify true positives and update the report. Two unpaid leave days and the Deepavali public holiday were also recorded during this period. Only high-level, anonymized activities are documented.
 
 ---
 
-<sub>Content is anonymized to protect client confidentiality. Updated through 20 November 2026.</sub>
+<sub>Content is anonymized to protect client confidentiality. Updated through 26 November 2026.</sub>

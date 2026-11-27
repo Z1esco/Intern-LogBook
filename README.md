@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/University-UniKL-236A87?style=flat-square" alt="University: UniKL" />
     <img src="https://img.shields.io/badge/Track-Cybersecurity-127A75?style=flat-square" alt="Track: Cybersecurity" />
     <img src="https://img.shields.io/badge/Started-19_Oct_2026-31446A?style=flat-square" alt="Started: 19 October 2026" />
-    <img src="https://img.shields.io/badge/Entries-25-476B97?style=flat-square" alt="25 entries" />
+    <img src="https://img.shields.io/badge/Entries-26-476B97?style=flat-square" alt="26 entries" />
   </p>
 </div>
 
@@ -25,7 +25,7 @@ Welcome to my **Intern LogBook**, a structured record of my cybersecurity intern
     <td width="25%"><strong>🏫 University</strong><br/>UniKL</td>
     <td width="25%"><strong>🛡️ Focus</strong><br/>Cybersecurity</td>
     <td width="25%"><strong>📅 Started</strong><br/>19 Oct 2026</td>
-    <td width="25%"><strong>📒 Days logged</strong><br/>25</td>
+    <td width="25%"><strong>📒 Days logged</strong><br/>26</td>
   </tr>
 </table>
 
@@ -48,7 +48,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | 09 | Thu, 29 Oct | 🔍 Web application mitigation retesting and findings validation | [Read ↗](logbook/2026/10-october/2026-10-29-day-09.md) |
 | 10 | Fri, 30 Oct | 🧪 Hack The Box Fawn practice and TwoMillion progress | [Read ↗](logbook/2026/10-october/2026-10-30-day-10.md) |
 
-### November 2026 · Weeks 03–05
+### November 2026 · Weeks 03–06
 
 | Day | Date | Activity | Entry |
 | :--: | :-- | :-- | :--: |
@@ -67,6 +67,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | 23 | Wed, 18 Nov | 🧪 Continued PT, remote Nessus scan of ~2,000 hosts in progress, HTB Oopsie | [Read ↗](logbook/2026/11-november/2026-11-18-day-23.md) |
 | 24 | Thu, 19 Nov | 📄 Validated findings, exploitation testing with Piranha, Burp Suite and Nessus, report generation | [Read ↗](logbook/2026/11-november/2026-11-19-day-24.md) |
 | 25 | Fri, 20 Nov | 🔁 API OTP rate limiting retest in WSL (closed), web and network PT report, continued IPT Nessus scan | [Read ↗](logbook/2026/11-november/2026-11-20-day-25.md) |
+| 28 | Thu, 26 Nov | 🔎 IPT PoC testing and true positive verification of medium, low and info findings, report updated | [Read ↗](logbook/2026/11-november/2026-11-26-day-28.md) |
 
 **Browse:** [2026 overview](logbook/2026/README.md) · [October index](logbook/2026/10-october/README.md) · [November index](logbook/2026/11-november/README.md)
 
@@ -76,7 +77,7 @@ Each day follows the **UniKL logbook form**: *Title*, *Descriptions of Jobs/Task
 | :-- | :-- |
 | **Web application security** | Server-side vulnerability labs, Server-Side Request Forgery (SSRF), Path Traversal, and SQL Injection (SQLi) study |
 | **Tools and training** | Burp Suite, PortSwigger Web Security Academy, Nessus, AnyDesk, and Hack The Box (HTB) practice on Fawn, TwoMillion, Command, Redeemer, Dancing, Appointment, Sequel, Crocodile, Responder, Three, Vaccine, and Oopsie |
-| **Security assessment** | Retesting a missing Content-Security-Policy (CSP) HTTP response header finding; network service version checks for OpenSSH, ClamAV, Portainer, and Apache; web application findings validation across XSS, file upload, session security, and input validation; web application and API retesting, including rate limiting on OTP dispatch; infrastructure vulnerability scanning with Nessus |
+| **Security assessment** | Retesting a missing Content-Security-Policy (CSP) HTTP response header finding; network service version checks for OpenSSH, ClamAV, Portainer, and Apache; web application findings validation across XSS, file upload, session security, and input validation; web application and API retesting, including rate limiting on OTP dispatch; infrastructure vulnerability scanning with Nessus; proof-of-concept testing and true positive verification of infrastructure findings |
 | **Technical documentation** | Combined four retesting reports; continued consolidating eight draft VAPT reports covering IPT, INPT, MPOS thick client, cloud, and web assessments; prepared a penetration testing draft, finalized a client black box penetration testing report, and drafted an IPT report covering identified findings |
 | **Professional practice** | ISMS orientation, consulting workflows, reporting standards, and internal escalation procedures |
 
@@ -120,7 +121,8 @@ Intern-LogBook/
 │           ├── 2026-11-17-day-22.md
 │           ├── 2026-11-18-day-23.md
 │           ├── 2026-11-19-day-24.md
-│           └── 2026-11-20-day-25.md
+│           ├── 2026-11-20-day-25.md
+│           └── 2026-11-26-day-28.md
 ├── templates/
 │   └── daily-entry.md                # Template for future entries
 ├── docs/
